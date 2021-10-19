@@ -22,6 +22,7 @@ const useStyles = makeStyles({
     width: "73%",
     height: "80%",
     background: "linear-gradient(to right, #e74c3c, #e67e22)",
+    // background: "linear-gradient(to right, #3ce6e7, #2238e6)",
   },
 });
 
